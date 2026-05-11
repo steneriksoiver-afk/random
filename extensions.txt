@@ -3,3 +3,8 @@ jpg
 png
 pdf
 sh
+py
+ps1
+zip
+rar
+exe
